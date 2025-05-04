@@ -7,13 +7,9 @@
 }
 
 img {
-	width:25vw;
-	max-width:25vw;
+	max-width:25vw !important;
 }
 
-.cards img:nth-child(2n){
-	heigth:10vh;
-}
 
 
 
